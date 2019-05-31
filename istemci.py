@@ -6,7 +6,7 @@ global istemci
 import json
 sunucu = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 global server_adress
-server_adress = ('192.168.1.11')
+server_adress = ('192.168.x.x') #sunucu ip adresi
 global port
 port = 50000
 
