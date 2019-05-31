@@ -24,7 +24,6 @@ def baglanti():
             print("--Sunucuya Bağlanılamadı 2 Sn Sonra Tekrar Denenecek--")
             time.sleep(2)
 
-
 def veriGonder(veri):
     try:
         print("-------------------Veri Yollandı---------------------")
